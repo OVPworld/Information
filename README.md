@@ -6,6 +6,8 @@ This repository was created in 2023 with the move to focus on Open Standards.
 
 The downloads, such as riscvOVPsimPlus.exe and riscvISATESTS that were previously available from OVPworld.org, these can be accessed from your normal Imperas or Synopsys download sites. 
 
+The latest version is found in branch 20240902
+
 ## About OVP
 <p align="left"><img height="100" src="images/logo_OVP.gif" /></p>
 
