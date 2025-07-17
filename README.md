@@ -1,5 +1,4 @@
 # Information on Open Virtual Platforms (OVP)
-The latest version is found in branch 20240902.
 
 This repository holds information on the open-standard OVP (Open Virtual Platforms) APIs.
 
@@ -11,7 +10,7 @@ The downloads, such as riscvOVPsimPlus.exe, riscvISACOV, and riscvISATEST that w
 
 If you would like more information about the legacy Imperas virtual platform technology and peripheral / platform models then please [contact Synopsys](https://www.synopsys.com/verification/virtual-prototyping/vp-contact-us.html).
 
-If you would like more information about the Synopsys Virtual Prototyping solutions please visit [the Synopsys Virtualizer pages](https://www.synopsys.com/verification/virtual-prototyping/virtualizer.html|).
+If you would like more information about the Synopsys Virtual Prototyping solutions please visit [the Synopsys Virtualizer pages](https://www.synopsys.com/verification/virtual-prototyping/virtualizer.html).
         
 ## About OVP
 <p align="left"><img height="100" src="images/logo_OVP.gif" /></p>
