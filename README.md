@@ -1,17 +1,22 @@
 # Information on Open Virtual Platforms (OVP)
-This repository holds information on the open-standard OVP (Open Virtual Platforms) APIs.  
+The latest version is found in branch 20240902.
+
+This repository holds information on the open-standard OVP (Open Virtual Platforms) APIs.
+
+These APIs were originally documented and hosted on www.OVPworld.org by Imperas Software Ltd. which in 2023 was acquired by [Synopsys, Inc.](https://www.synopsys.com/verification/imperasdv.html). The original site has been retired and the content maintained now on this GitHub site with a focus on Open Standards.
+
 Please look in the directories below for resources and information related to OVP and OVP processor models.
 
-This repository was created in 2023 with the move to focus on Open Standards.
+The downloads, such as riscvOVPsimPlus.exe, riscvISACOV, and riscvISATEST that were previously available from OVPworld.org, can be accessed from your normal Synopsys download sites. 
 
-The downloads, such as riscvOVPsimPlus.exe and riscvISATESTS that were previously available from OVPworld.org, these can be accessed from your normal Imperas or Synopsys download sites. 
+If you would like more information about the legacy Imperas virtual platform technology and peripheral / platform models then please [contact Synopsys](https://www.synopsys.com/verification/virtual-prototyping/vp-contact-us.html).
 
-The latest version is found in branch 20240902
-
+If you would like more information about the Synopsys Virtual Prototyping solutions please visit [the Synopsys Virtualizer pages](https://www.synopsys.com/verification/virtual-prototyping/virtualizer.html|).
+        
 ## About OVP
 <p align="left"><img height="100" src="images/logo_OVP.gif" /></p>
 
-The fundamentals of OVP are the public open-standard APIs that have been developed by Imperas over the last 15 years with a focus on fast instruction accurate processor models and their related virtual platforms. These public APIs are now documented in this repository.
+The fundamentals of OVP are the public open-standard APIs that have been developed by Imperas since 2008 with a focus on fast instruction accurate processor models and their related virtual platforms. These public APIs are now documented in this repository.
 
 Many companies over the years have been involved and have built models and tools that made use of these OVP APIs. Imperas was the main driving force and is now a simulation/modeling team as part of Synopsys, Inc. The Imperas group oversee and evolve this repository and these APIs.
 
@@ -26,7 +31,7 @@ Within OVP, models are created by writing code calling functions in a specific m
 
 To model an embedded system there are several main items to be modeled: Platforms, Processors, Peripherals and environment. The platform purely connects and configures the behavioral components. The processors fetch and execute object code instructions from the memories, and the peripherals model the components and environment that the operating system and application software interacts with.
 
-Imperas' current focus is the Imperas Fast Processor Models (ImperasFPMs) that use the VMI APIs.
+Imperas' current focus is the Imperas Fast Processor Models (ImperasFPM) that use the VMI APIs.
 
 OVP modeling comprises several APIs; OP, VMI, BHM/PPM.
 

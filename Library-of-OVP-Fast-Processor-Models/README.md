@@ -6,6 +6,3 @@ The models lists are available in the OVP packages from Imperas / Synopsys.
 
 This directory will be fully populated in due course.  
 
-(to be completed, dec2023)
-
-

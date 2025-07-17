@@ -10,7 +10,7 @@ Implementing the Instruction Decode. More complex decoders.
 Implementing an Instruction Disassembler. Implementing simple behavior.  
 An introduction to Code Morphing.  
 Processor flags and register dumping. Jump instructions.  
-Memory access instructions. Fibonnacci example.  
+Memory access instructions. Fibonacci example.  
 Modeling Exceptions. Modeling mode-dependent behavior.  
 Timers. Modeling interrupts. Debug Interface.  
 Implementing Virtual Memory. Higher speed processor models.  
